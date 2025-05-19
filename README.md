@@ -1,2 +1,2 @@
 # yamin
-sry
+https://yaminn05.github.io/yamin/
